@@ -11,7 +11,7 @@
 <!---👯 I'm looking to collaborate on [Type of Projects]-->
 <!---💬 Ask me about [Your Expertise Areas]-->
 
-### How to reach me: 
+### How to reach me 
 <a href="https://www.linkedin.com/in/gldt/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ### Technologies & Tools
