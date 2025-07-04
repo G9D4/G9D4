@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/gldt/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ### Technologies & Tools
-<section style="display: flex; flex-wrap: wrap; gap: 350px;">
+<p align="center">
   <img src="https://cdn.simpleicons.org/html5/000/fff" alt="Simple Icons" width=40>
   <img src="https://cdn.simpleicons.org/css/000/fff" alt="Simple Icons" width=40>
   <img src="https://cdn.simpleicons.org/javascript/000/fff" alt="Simple Icons" width=40>
