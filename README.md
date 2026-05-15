@@ -1,13 +1,13 @@
 ## ✨ Hi there, I'm Gabriela
 
 ### About Me
-- I'm a Front-end Developer with 3+ years of experience building web applications interesting interfaces.
+- I'm a Front-end Developer with 4+ years of experience building web applications interesting interfaces.
 - I deeply appreciate team work and learning new skills.
 - I'm looking forward to getting a certificate in UX/UI in the nearest future.
 
 
 <!---🔭 I'm currently working on [Current Project] -->
-🌱 Currently learning: Back-end Development
+🌱 Currently learning: UX/UI Design
 <!---👯 I'm looking to collaborate on [Type of Projects]-->
 <!---💬 Ask me about [Your Expertise Areas]-->
 
